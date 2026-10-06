@@ -1,0 +1,8 @@
+{
+  "name": "The Welcoming Center Job Board",
+  "description": "Automated job posting tracker and employer directory for The Welcoming Center partner network in Greater Philadelphia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
